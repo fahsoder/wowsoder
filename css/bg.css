@@ -1,0 +1,138 @@
+body, html {
+    height: 100%;
+}
+
+.bg {  
+	background: url("../img/329985.jpg") no-repeat center center fixed;
+
+	background-size: cover;
+
+	-webkit-background-size: cover; /* SAFARI / CHROME */
+
+	-moz-background-size: cover; /* FIREFOX */
+
+	-ms-background-size: cover; /* IE */
+
+	-o-background-size: cover; /* OPERA */
+}
+
+.bg2 {
+    background: url("../img/853975.jpg") no-repeat center center fixed;
+
+    background-size: cover;
+
+	-webkit-background-size: cover; /* SAFARI / CHROME */
+
+	-moz-background-size: cover; /* FIREFOX */
+
+	-ms-background-size: cover; /* IE */
+
+	-o-background-size: cover; /* OPERA */
+}
+
+.bg3 {
+    background: url("../img/36f338ce473516da556421141474941e.jpg") no-repeat center center fixed;
+
+    background-size: cover;
+
+	-webkit-background-size: cover; /* SAFARI / CHROME */
+
+	-moz-background-size: cover; /* FIREFOX */
+
+	-ms-background-size: cover; /* IE */
+
+	-o-background-size: cover; /* OPERA */
+}
+.bg4 {
+    background: url("../img/world-of-warcraft-picture_044603569_250.jpg") no-repeat center center fixed;
+
+    background-size: cover;
+
+	-webkit-background-size: cover; /* SAFARI / CHROME */
+
+	-moz-background-size: cover; /* FIREFOX */
+
+	-ms-background-size: cover; /* IE */
+
+	-o-background-size: cover; /* OPERA */
+}
+
+.bg5 {
+    background: url("../img/ZXtrU1.jpg") no-repeat center center fixed;
+
+    background-size: cover;
+
+	-webkit-background-size: cover; /* SAFARI / CHROME */
+
+	-moz-background-size: cover; /* FIREFOX */
+
+	-ms-background-size: cover; /* IE */
+
+	-o-background-size: cover; /* OPERA */
+}
+.bg6 {
+    background: url("../img/login.jpg") no-repeat center center fixed;
+
+    background-size: cover;
+
+	-webkit-background-size: cover; /* SAFARI / CHROME */
+
+	-moz-background-size: cover; /* FIREFOX */
+
+	-ms-background-size: cover; /* IE */
+
+	-o-background-size: cover; /* OPERA */
+}
+.bg7 {
+    background: url("../img/character.jpg") no-repeat center center fixed;
+
+    background-size: cover;
+
+	-webkit-background-size: cover; /* SAFARI / CHROME */
+
+	-moz-background-size: cover; /* FIREFOX */
+
+	-ms-background-size: cover; /* IE */
+
+	-o-background-size: cover; /* OPERA */
+}
+.bg8 {
+    background: url("../img/bg8.jpg") no-repeat center center fixed;
+
+    background-size: cover;
+
+	-webkit-background-size: cover; /* SAFARI / CHROME */
+
+	-moz-background-size: cover; /* FIREFOX */
+
+	-ms-background-size: cover; /* IE */
+
+	-o-background-size: cover; /* OPERA */
+}
+.bg9 {
+    background: url("../img/bg9.jpg") no-repeat center center fixed;
+
+    background-size: cover;
+
+	-webkit-background-size: cover; /* SAFARI / CHROME */
+
+	-moz-background-size: cover; /* FIREFOX */
+
+	-ms-background-size: cover; /* IE */
+
+	-o-background-size: cover; /* OPERA */
+}
+.bg10 {
+    background: url("../img/bg10.jpg") no-repeat center center fixed;
+
+    background-size: cover;
+
+	-webkit-background-size: cover; /* SAFARI / CHROME */
+
+	-moz-background-size: cover; /* FIREFOX */
+
+	-ms-background-size: cover; /* IE */
+
+	-o-background-size: cover; /* OPERA */
+}
+
